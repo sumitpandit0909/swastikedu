@@ -896,8 +896,10 @@ a.read_more:hover {
     padding: 0.5rem;
     border-radius: 15px;
     font-size: 1.1rem;
+    margin-bottom: 10px;
 
 } 
+
 #contact-box textarea{
     width: 100%;
     padding: 0.5rem;
